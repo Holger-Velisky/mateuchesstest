@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/mateuchesstest/__init__.py
+src/mateuchesstest/mateu.py
+src/mateuchesstest_KATRONKA.egg-info/PKG-INFO
+src/mateuchesstest_KATRONKA.egg-info/SOURCES.txt
+src/mateuchesstest_KATRONKA.egg-info/dependency_links.txt
+src/mateuchesstest_KATRONKA.egg-info/top_level.txt

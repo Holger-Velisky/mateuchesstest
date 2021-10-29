@@ -8,12 +8,12 @@ setuptools.setup(
     version="0.0.1",
     author="Albert Mateu Carrasco",
     author_email="albertmateucarrasco@gmail.com",
-    description="A small example package",
+    description="A test package for chess engine creation",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/Holger-Velisky/mateuchesstest",
     project_urls={
-        "Bug Tracker": "https://github.com/pypa/sampleproject/issues",
+        "Repository": "https://github.com/Holger-Velisky/mateuchesstest",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
